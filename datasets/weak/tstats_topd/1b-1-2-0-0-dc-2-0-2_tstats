@@ -1,0 +1,2 @@
+0x8048CC3:['memaccess_self', 'stack_pointer_oddity', 'conditional_unused', 'prob_of_unimpl', 'crazy_mem_offset']
+@total_conds:29

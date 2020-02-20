@@ -1,0 +1,4 @@
+0x8048509:['memaccess_self', 'def_no_use_dep', 'crazy_mem_offset']
+0x80487D1:['weird_cutoff']
+0x80487A8:['prob_of_unimpl']
+@total_conds:15

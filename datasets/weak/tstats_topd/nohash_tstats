@@ -1,0 +1,4 @@
+0x8048813:['def_no_use_dep']
+0x80489F3:['def_no_use_dep', 'crazy_mem_offset']
+0x80488C9:['weird_cutoff']
+@total_conds:23

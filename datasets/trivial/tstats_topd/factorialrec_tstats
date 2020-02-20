@@ -1,0 +1,4 @@
+0x8048948:['def_no_use_dep', 'crazy_mem_offset']
+0x8048940:['def_no_use_dep', 'conditional_unused']
+0x8048614:['stack_pointer_oddity', 'def_no_use_dep']
+@total_conds:15

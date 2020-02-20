@@ -1,0 +1,4 @@
+0x8048747:['def_no_use_dep']
+0x80487AA:['memaccess_self', 'prob_of_unimpl']
+0x8048831:['priviledged_instructions']
+@total_conds:17

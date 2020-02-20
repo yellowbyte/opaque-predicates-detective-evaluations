@@ -1,0 +1,4 @@
+0x804873C:['def_no_use_dep']
+0x804888F:['prob_of_unimpl', 'priviledged_instructions']
+0x8048A13:['def_no_use_dep']
+@total_conds:26

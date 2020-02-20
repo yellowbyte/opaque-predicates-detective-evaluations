@@ -1,0 +1,4 @@
+0x8048630:['prob_of_unimpl', 'priviledged_instructions']
+0x8048918:['memaccess_self', 'prob_of_unimpl', 'priviledged_instructions']
+0x8048720:['prob_of_unimpl']
+@total_conds:15

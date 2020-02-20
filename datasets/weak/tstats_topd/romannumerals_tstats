@@ -1,0 +1,4 @@
+0x80488F7:['prob_of_unimpl', 'weird_cutoff']
+0x8048DEF:['def_no_use_dep']
+0x8048CAE:['memaccess_self', 'crazy_mem_offset']
+@total_conds:42

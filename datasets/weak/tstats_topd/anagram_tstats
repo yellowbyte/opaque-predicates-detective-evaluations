@@ -1,0 +1,4 @@
+0x8048B58:['crazy_mem_offset']
+0x80491EA:['prob_of_unimpl', 'priviledged_instructions']
+0x804903C:['def_no_use_dep', 'memaccess_nonexist']
+@total_conds:46

@@ -1,0 +1,4 @@
+0x80485BA:['memaccess_self', 'crazy_mem_offset']
+0x80486DC:['memaccess_self', 'def_no_use_dep']
+0x8048790:['stack_pointer_oddity', 'def_no_use_dep', 'crazy_mem_offset']
+@total_conds:23

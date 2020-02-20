@@ -1,0 +1,5 @@
+0x804858C:['prob_of_unimpl', 'priviledged_instructions']
+0x8048592:['memaccess_self', 'def_no_use_dep', 'crazy_mem_offset']
+0x8048779:['memaccess_self']
+0x80486E9:['call_dest_nonexist']
+@total_conds:18

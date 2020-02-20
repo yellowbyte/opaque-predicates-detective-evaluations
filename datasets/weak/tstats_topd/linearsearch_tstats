@@ -1,0 +1,4 @@
+0x8048924:['weird_cutoff', 'crazy_mem_offset']
+0x804889A:['conditional_unused']
+0x804888E:['def_no_use_dep', 'crazy_mem_offset']
+@total_conds:32

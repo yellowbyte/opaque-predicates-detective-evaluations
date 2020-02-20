@@ -1,0 +1,4 @@
+0x80489AE:['conditional_unused', 'priviledged_instructions']
+0x8048B09:['def_no_use_dep', 'crazy_mem_offset']
+0x8048C30:['memaccess_self']
+@total_conds:25

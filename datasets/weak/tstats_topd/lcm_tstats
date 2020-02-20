@@ -1,0 +1,4 @@
+0x8048D3C:['jmp_dest_nonexist']
+0x8048B8F:['def_no_use_dep']
+0x8048C73:['crazy_mem_offset']
+@total_conds:36

@@ -1,0 +1,5 @@
+0x80485F1:['def_no_use_dep', 'conditional_unused']
+0x8048842:['def_no_use_dep']
+0x8048A25:['weird_cutoff']
+0x8048A13:['memaccess_self', 'crazy_mem_offset']
+@total_conds:20

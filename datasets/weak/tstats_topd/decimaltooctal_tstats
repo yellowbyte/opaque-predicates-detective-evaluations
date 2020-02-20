@@ -1,0 +1,4 @@
+0x8048866:['conditional_unused', 'prob_of_unimpl']
+0x8048AA8:['conditional_unused', 'prob_of_unimpl', 'weird_cutoff']
+0x8048C7D:['stack_pointer_oddity']
+@total_conds:34

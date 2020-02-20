@@ -1,0 +1,4 @@
+0x8048876:['memaccess_self', 'conditional_unused', 'prob_of_unimpl']
+0x80487A8:['memaccess_self', 'def_no_use_dep']
+0x804879E:['def_no_use_dep']
+@total_conds:15

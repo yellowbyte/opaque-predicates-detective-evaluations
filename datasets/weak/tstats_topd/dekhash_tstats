@@ -1,0 +1,4 @@
+0x80487E2:['stack_pointer_oddity', 'prob_of_unimpl', 'priviledged_instructions']
+0x8048DE3:['memaccess_self', 'weird_cutoff']
+0x8048BCF:['stack_pointer_oddity', 'weird_cutoff']
+@total_conds:30

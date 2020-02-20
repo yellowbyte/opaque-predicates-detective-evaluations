@@ -1,0 +1,4 @@
+0x8048671:['jmp_dest_nonexist']
+0x804856D:['stack_pointer_oddity', 'def_no_use_dep']
+0x80487E9:['memaccess_self', 'prob_of_unimpl', 'priviledged_instructions']
+@total_conds:15

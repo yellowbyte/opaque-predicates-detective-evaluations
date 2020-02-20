@@ -1,0 +1,4 @@
+0x80489F7:['call_dest_nonexist', 'weird_cutoff']
+0x8048BE6:['weird_cutoff', 'crazy_mem_offset']
+0x8048CAA:['memaccess_self']
+@total_conds:29

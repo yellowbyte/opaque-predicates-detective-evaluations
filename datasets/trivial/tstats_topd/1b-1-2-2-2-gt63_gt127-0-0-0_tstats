@@ -1,0 +1,4 @@
+0x80485C6:['memaccess_self', 'prob_of_unimpl', 'crazy_mem_offset', 'priviledged_instructions']
+0x80486FB:['memaccess_self', 'def_no_use_dep']
+0x80488F5:['memaccess_self']
+@total_conds:15

@@ -1,0 +1,3 @@
+0x8048A00:['priviledged_instructions', 'weird_cutoff']
+0x8048848:['stack_pointer_oddity', 'def_no_use_dep']
+@total_conds:15

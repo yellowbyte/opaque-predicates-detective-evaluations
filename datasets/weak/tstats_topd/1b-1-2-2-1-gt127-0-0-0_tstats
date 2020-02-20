@@ -1,0 +1,4 @@
+0x80486F4:['conditional_unused', 'prob_of_unimpl', 'priviledged_instructions']
+0x8048849:['jmp_dest_nonexist']
+0x80487F4:['prob_of_unimpl', 'priviledged_instructions']
+@total_conds:24

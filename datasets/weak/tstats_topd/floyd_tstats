@@ -1,0 +1,4 @@
+0x8048C1D:['conditional_unused', 'prob_of_unimpl', 'weird_cutoff', 'priviledged_instructions']
+0x8048855:['weird_cutoff']
+0x8048D11:['priviledged_instructions', 'crazy_mem_offset']
+@total_conds:37

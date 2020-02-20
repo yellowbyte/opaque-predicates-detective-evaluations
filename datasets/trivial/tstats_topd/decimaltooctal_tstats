@@ -1,0 +1,5 @@
+0x80489E0:['conditional_unused', 'weird_cutoff']
+0x80489D9:['def_no_use_dep']
+0x80489D3:['prob_of_unimpl', 'priviledged_instructions']
+0x80489CF:['def_no_use_dep']
+@total_conds:18

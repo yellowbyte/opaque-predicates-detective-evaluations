@@ -1,0 +1,3 @@
+0x8048A76:['prob_of_unimpl', 'priviledged_instructions']
+0x804880B:['prob_of_unimpl', 'priviledged_instructions']
+@total_conds:20

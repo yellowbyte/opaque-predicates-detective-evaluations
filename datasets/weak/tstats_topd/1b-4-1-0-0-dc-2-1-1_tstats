@@ -1,0 +1,3 @@
+0x80489C6:['prob_of_unimpl', 'priviledged_instructions']
+0x80488BE:['memaccess_self', 'crazy_mem_offset']
+@total_conds:27

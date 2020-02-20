@@ -1,0 +1,4 @@
+0x8048835:['def_no_use_dep', 'crazy_mem_offset']
+0x8048960:['def_no_use_dep']
+0x8048B6C:['def_no_use_dep', 'call_dest_nonexist', 'crazy_mem_offset']
+@total_conds:27

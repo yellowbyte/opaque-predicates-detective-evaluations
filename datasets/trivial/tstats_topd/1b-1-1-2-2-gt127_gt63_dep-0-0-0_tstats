@@ -1,0 +1,5 @@
+0x80486CE:['memaccess_self', 'call_dest_nonexist']
+0x80489E6:['def_no_use_dep']
+0x8048AC3:['weird_cutoff']
+0x8048A83:['stack_pointer_oddity']
+@total_conds:20

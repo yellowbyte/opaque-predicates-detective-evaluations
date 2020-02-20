@@ -1,0 +1,4 @@
+0x80486BC:['def_no_use_dep']
+0x804877A:['memaccess_self']
+0x80486A3:['def_no_use_dep', 'conditional_unused']
+@total_conds:16

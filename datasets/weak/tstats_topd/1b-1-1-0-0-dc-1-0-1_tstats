@@ -1,0 +1,4 @@
+0x8048754:['def_no_use_dep', 'crazy_mem_offset']
+0x80488EB:['prob_of_unimpl', 'priviledged_instructions']
+0x80488F1:['jmp_dest_nonexist']
+@total_conds:25

@@ -1,0 +1,4 @@
+0x8048542:['weird_cutoff']
+0x804876D:['memaccess_self', 'crazy_mem_offset']
+0x80485D2:['conditional_unused']
+@total_conds:15

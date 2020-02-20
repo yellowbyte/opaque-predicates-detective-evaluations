@@ -1,0 +1,3 @@
+0x8048966:['def_no_use_dep']
+0x8048B0F:['def_no_use_dep', 'conditional_unused']
+@total_conds:33

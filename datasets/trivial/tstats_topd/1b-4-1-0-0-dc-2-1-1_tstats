@@ -1,0 +1,5 @@
+0x8048545:['memaccess_self']
+0x8048542:['memaccess_self', 'crazy_mem_offset']
+0x8048843:['crazy_mem_offset']
+0x8048840:['prob_of_unimpl']
+@total_conds:17

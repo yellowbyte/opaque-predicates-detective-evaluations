@@ -1,0 +1,8 @@
+0x804F4D8:['def_no_use_dep', 'conditional_unused']
+0x804F766:['def_no_use_dep', 'conditional_unused']
+0x8050D10:['def_no_use_dep']
+0x8051B69:['def_no_use_dep']
+0x805412A:['def_no_use_dep']
+0x8059165:['conditional_unused']
+0x8059159:['conditional_unused']
+@total_conds:2355

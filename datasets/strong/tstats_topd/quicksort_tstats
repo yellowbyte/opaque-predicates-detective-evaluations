@@ -1,0 +1,3 @@
+0x8048AEB:['memaccess_self', 'def_no_use_dep']
+0x8048CB9:['memaccess_self']
+@total_conds:47

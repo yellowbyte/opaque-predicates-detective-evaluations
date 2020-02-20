@@ -1,0 +1,4 @@
+0x8048BA3:['priviledged_instructions']
+0x8048D96:['def_no_use_dep']
+0x8048F7D:['prob_of_unimpl', 'crazy_mem_offset', 'priviledged_instructions']
+@total_conds:40

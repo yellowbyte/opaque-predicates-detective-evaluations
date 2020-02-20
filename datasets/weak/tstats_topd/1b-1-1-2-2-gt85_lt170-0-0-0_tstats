@@ -1,0 +1,4 @@
+0x80488BD:['def_no_use_dep']
+0x80489C7:['call_dest_nonexist', 'conditional_unused']
+0x8048AF4:['conditional_unused', 'crazy_mem_offset']
+@total_conds:24

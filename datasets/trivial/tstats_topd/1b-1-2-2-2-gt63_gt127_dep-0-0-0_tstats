@@ -1,0 +1,4 @@
+0x8048641:['memaccess_self', 'call_dest_nonexist']
+0x8048776:['def_no_use_dep']
+0x804856F:['def_no_use_dep']
+@total_conds:16

@@ -1,0 +1,4 @@
+0x80488A6:['memaccess_self', 'weird_cutoff', 'crazy_mem_offset']
+0x8048D0C:['prob_of_unimpl', 'crazy_mem_offset', 'priviledged_instructions']
+0x8048A6C:['memaccess_nonexist', 'weird_cutoff']
+@total_conds:33

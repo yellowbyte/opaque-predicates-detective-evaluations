@@ -1,0 +1,4 @@
+0x80487A2:['def_no_use_dep']
+0x8048A5D:['stack_pointer_oddity', 'prob_of_unimpl']
+0x8048992:['memaccess_self', 'weird_cutoff']
+@total_conds:26

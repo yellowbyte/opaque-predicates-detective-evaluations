@@ -1,0 +1,3 @@
+0x8048506:['conditional_unused']
+0x80486A7:['memaccess_self', 'conditional_unused']
+@total_conds:15

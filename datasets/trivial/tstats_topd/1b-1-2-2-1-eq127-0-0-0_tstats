@@ -1,0 +1,5 @@
+0x804870F:['def_no_use_dep']
+0x8048668:['weird_cutoff']
+0x804865E:['stack_pointer_oddity', 'conditional_unused', 'weird_cutoff']
+0x8048709:['stack_pointer_oddity']
+@total_conds:16

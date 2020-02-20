@@ -1,0 +1,4 @@
+0x8048603:['memaccess_self', 'conditional_unused', 'prob_of_unimpl']
+0x80486DB:['memaccess_self', 'crazy_mem_offset']
+0x8048732:['def_no_use_dep']
+@total_conds:14

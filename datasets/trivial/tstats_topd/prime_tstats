@@ -1,0 +1,5 @@
+0x8048844:['crazy_mem_offset']
+0x8048841:['stack_pointer_oddity']
+0x80489F0:['prob_of_unimpl']
+0x80489FA:['prob_of_unimpl', 'priviledged_instructions']
+@total_conds:21

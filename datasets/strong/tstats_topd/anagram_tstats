@@ -1,0 +1,4 @@
+0x8049054:['priviledged_instructions', 'weird_cutoff']
+0x804920D:['memaccess_self', 'def_no_use_dep']
+0x8049372:['def_no_use_dep', 'conditional_unused']
+@total_conds:57

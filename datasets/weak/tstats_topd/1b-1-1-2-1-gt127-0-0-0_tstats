@@ -1,0 +1,3 @@
+0x8048990:['memaccess_self', 'weird_cutoff', 'crazy_mem_offset']
+0x8048C36:['memaccess_self']
+@total_conds:28

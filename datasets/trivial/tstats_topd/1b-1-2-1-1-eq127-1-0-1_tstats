@@ -1,0 +1,5 @@
+0x80485DE:['prob_of_unimpl', 'priviledged_instructions']
+0x80486B6:['stack_pointer_oddity']
+0x804874E:['stack_pointer_oddity', 'def_no_use_dep']
+0x804874B:['stack_pointer_oddity', 'def_no_use_dep']
+@total_conds:16

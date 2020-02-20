@@ -1,0 +1,3 @@
+0x804878F:['conditional_unused', 'weird_cutoff']
+0x80489E7:['prob_of_unimpl']
+@total_conds:24

@@ -1,0 +1,4 @@
+0x8048784:['stack_pointer_oddity', 'prob_of_unimpl']
+0x8048BAB:['def_no_use_dep', 'memaccess_nonexist']
+0x8048B91:['def_no_use_dep']
+@total_conds:26

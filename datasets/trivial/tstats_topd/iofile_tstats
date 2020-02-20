@@ -1,0 +1,3 @@
+0x8048957:['memaccess_self', 'prob_of_unimpl', 'priviledged_instructions']
+0x8048A32:['memaccess_self', 'def_no_use_dep']
+@total_conds:21

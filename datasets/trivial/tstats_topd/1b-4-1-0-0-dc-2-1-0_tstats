@@ -1,0 +1,6 @@
+0x8048792:['jmp_dest_nonexist']
+0x80488CB:['def_no_use_dep', 'crazy_mem_offset']
+0x8048A6A:['crazy_mem_offset']
+0x8048B06:['prob_of_unimpl', 'weird_cutoff', 'priviledged_instructions']
+0x8048AD8:['memaccess_self']
+@total_conds:19

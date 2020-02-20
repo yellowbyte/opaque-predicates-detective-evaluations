@@ -1,0 +1,5 @@
+0x804864C:['weird_cutoff']
+0x8048612:['prob_of_unimpl', 'priviledged_instructions']
+0x804878C:['memaccess_nonexist', 'weird_cutoff']
+0x804862D:['memaccess_self', 'call_dest_nonexist']
+@total_conds:19

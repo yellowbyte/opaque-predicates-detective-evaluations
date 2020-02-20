@@ -1,0 +1,4 @@
+0x80487C2:['stack_pointer_oddity']
+0x80487B5:['jmp_dest_nonexist']
+0x80489CB:['prob_of_unimpl', 'crazy_mem_offset', 'priviledged_instructions']
+@total_conds:15

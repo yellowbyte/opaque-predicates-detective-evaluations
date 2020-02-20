@@ -1,0 +1,4 @@
+0x80489AB:['weird_cutoff']
+0x8048AB3:['def_no_use_dep']
+0x8048C16:['conditional_unused']
+@total_conds:31

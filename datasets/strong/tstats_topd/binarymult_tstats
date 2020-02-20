@@ -1,0 +1,4 @@
+0x804913E:['memaccess_self']
+0x8048FAB:['conditional_unused', 'prob_of_unimpl', 'priviledged_instructions']
+0x8049538:['weird_cutoff']
+@total_conds:56

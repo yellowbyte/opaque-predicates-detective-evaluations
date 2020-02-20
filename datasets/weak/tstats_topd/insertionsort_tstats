@@ -1,0 +1,4 @@
+0x8048910:['conditional_unused']
+0x8048EE3:['prob_of_unimpl', 'weird_cutoff', 'priviledged_instructions']
+0x8048A96:['memaccess_self', 'crazy_mem_offset']
+@total_conds:35

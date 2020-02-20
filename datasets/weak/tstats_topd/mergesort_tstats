@@ -1,0 +1,3 @@
+0x8048A4C:['stack_pointer_oddity', 'weird_cutoff', 'crazy_mem_offset']
+0x8048D1F:['memaccess_self', 'conditional_unused', 'priviledged_instructions', 'crazy_mem_offset']
+@total_conds:38

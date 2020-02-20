@@ -1,0 +1,4 @@
+0x80486F4:['priviledged_instructions', 'crazy_mem_offset']
+0x80486ED:['conditional_unused', 'weird_cutoff']
+0x80487C5:['prob_of_unimpl', 'priviledged_instructions']
+@total_conds:18
