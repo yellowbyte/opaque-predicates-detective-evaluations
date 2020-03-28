@@ -2,8 +2,6 @@
 
 This repo. contains the evaluations I used for the project, Opaque Predicates Detective.
 
-__NOTE__: I paused my BinaryNinja update during development, so this plugin has only been tested on BinaryNinja Version 1.2.1922-dev but I'm sure it will work fine on the newest version. In the upcoming week I will test it on the newest BinaryNinja version.
-
 <img src="datasets_structure.png" width="200">
 
 ### coreutils folder
